@@ -18,8 +18,8 @@ function Sevagen() {
   return (
     <div className="About Me">
       I'm a 3rd year computer science student from Amrita Vishwa Vidyapeetham, in the state of Kerala
-      and I'm from Mauritius. You can address me as {$`pronouns`} and ask me about {$`askMeAbout`}
-      I'm knowledgable in {$`code`} and currently learning {$`learning`}
+      and I'm from Mauritius. You can address me as ${pronouns} and ask me about ${askMeAbout}
+      I'm knowledgable in ${code} and currently learning ${learning}
       
       I love connecting with different people so if you want to say hi, 
       I'll be happy to meet you more!
